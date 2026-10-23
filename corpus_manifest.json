@@ -1,0 +1,196 @@
+{
+  "description": "Vendelligent synthetic HR policy suite. One representation per document ID. Only ingest files in policy_corpus/.",
+  "document_count": 19,
+  "documents": [
+    {
+      "document_id": "VND-HR-000",
+      "filename": "VND-HR-000.md",
+      "format": "md",
+      "title": "Employee Handbook: Company Overview, Values and Policy Framework",
+      "version": "2.1",
+      "effective_date": "2026-01-01",
+      "document_type": "Policy",
+      "sha256": "f206388aec6504be8322d1dec5d6f6870fb0623aad757efdccc8114a01427c41"
+    },
+    {
+      "document_id": "VND-HR-001",
+      "filename": "VND-HR-001.md",
+      "format": "md",
+      "title": "Code of Conduct and Workplace Behaviour",
+      "version": "2.1",
+      "effective_date": "2026-01-01",
+      "document_type": "Policy",
+      "sha256": "d618c6988d997507cc8569cda48f6dec3bc3e002a0942881e92ce536db2e709e"
+    },
+    {
+      "document_id": "VND-HR-002",
+      "filename": "VND-HR-002.md",
+      "format": "md",
+      "title": "Anti-Harassment, Anti-Discrimination and Grievance Policy",
+      "version": "2.1",
+      "effective_date": "2026-01-01",
+      "document_type": "Policy",
+      "sha256": "a3bf6b5541ee2685a1603bf39d42ef4fb7c85d94351593f933facd8040e7d8ff"
+    },
+    {
+      "document_id": "VND-HR-003",
+      "filename": "VND-HR-003.md",
+      "format": "md",
+      "title": "Working Hours, Attendance and Public Holidays Policy",
+      "version": "2.1",
+      "effective_date": "2026-01-01",
+      "document_type": "Policy",
+      "sha256": "a8a57086c98e07956dc46568ce20cdd30924ebb0527e18f400ba072f19b0a360"
+    },
+    {
+      "document_id": "VND-HR-004",
+      "filename": "VND-HR-004.md",
+      "format": "md",
+      "title": "Leave Policy (Annual Leave/PTO, Sick, Parental and Other Leave)",
+      "version": "2.1",
+      "effective_date": "2026-01-01",
+      "document_type": "Policy",
+      "sha256": "39f2cda87a7e5c70eb1852adef5281a5cde706c1f88a74535b92451411dbd123"
+    },
+    {
+      "document_id": "VND-HR-005",
+      "filename": "VND-HR-005.md",
+      "format": "md",
+      "title": "Remote, Hybrid and Work-from-Anywhere Policy",
+      "version": "2.1",
+      "effective_date": "2026-01-01",
+      "document_type": "Policy",
+      "sha256": "ab654ff563aea47a4727dd2d308222c5d51e76366c097cd378d360a1c3bafaf4"
+    },
+    {
+      "document_id": "VND-HR-006",
+      "filename": "VND-HR-006.md",
+      "format": "md",
+      "title": "Business Travel and Expense Reimbursement Policy",
+      "version": "2.1",
+      "effective_date": "2026-01-01",
+      "document_type": "Policy",
+      "sha256": "e3ec3a19c570930924aa3683fe7a09e84506df4b98d6fbe1b308957d9107edb0"
+    },
+    {
+      "document_id": "VND-HR-007",
+      "filename": "VND-HR-007.md",
+      "format": "md",
+      "title": "Equipment, IT Assets and Home Office Policy",
+      "version": "2.1",
+      "effective_date": "2026-01-01",
+      "document_type": "Policy",
+      "sha256": "119057482737a4b57e4d38a8c8b0fef02206b5aa4028d8c53b9889dbdd78699c"
+    },
+    {
+      "document_id": "VND-HR-008",
+      "filename": "VND-HR-008.md",
+      "format": "md",
+      "title": "Information Security, Data Protection and AI Acceptable Use Policy",
+      "version": "2.1",
+      "effective_date": "2026-01-01",
+      "document_type": "Policy",
+      "sha256": "7feb35919e0812a9518d582b5c1e8e40aac1a60a8cd70debe7affff1e3cc95bd"
+    },
+    {
+      "document_id": "VND-HR-009",
+      "filename": "VND-HR-009.md",
+      "format": "md",
+      "title": "Compensation, Payroll and Benefits Policy",
+      "version": "2.1",
+      "effective_date": "2026-01-01",
+      "document_type": "Policy",
+      "sha256": "0c0916946a2fdbfd8ebbfbe1c6094c3015a1f8d28d0120f7f3bf0d71be7eb730"
+    },
+    {
+      "document_id": "VND-HR-010",
+      "filename": "VND-HR-010.md",
+      "format": "md",
+      "title": "Performance Management and Career Development Policy",
+      "version": "2.1",
+      "effective_date": "2026-01-01",
+      "document_type": "Policy",
+      "sha256": "62d3382bcfdb194a56f7a0b46954e64b935ff299dfefc4f7724f73d40f021666"
+    },
+    {
+      "document_id": "VND-HR-011",
+      "filename": "VND-HR-011.md",
+      "format": "md",
+      "title": "Disciplinary Policy and Procedure",
+      "version": "2.1",
+      "effective_date": "2026-01-01",
+      "document_type": "Policy",
+      "sha256": "af29037957ae15f0dba07c99530e0462723621cf09d2cc5841997a6cc3b70d6e"
+    },
+    {
+      "document_id": "VND-HR-REG",
+      "filename": "VND-HR-REG.pdf",
+      "format": "pdf",
+      "title": "HR Policy and SOP Document Register",
+      "version": "2.1",
+      "effective_date": "2026-01-01",
+      "document_type": "Register",
+      "sha256": "710fb0b2f98f0eda6b99c2fd3c569efe7e4bbb8a1190b20e19371c105d4e5d59"
+    },
+    {
+      "document_id": "VND-SOP-101",
+      "filename": "VND-SOP-101.md",
+      "format": "md",
+      "title": "Employee Onboarding SOP",
+      "version": "2.1",
+      "effective_date": "2026-01-01",
+      "document_type": "SOP",
+      "sha256": "4339afc25b694bf04720ea443544ea76908ad2a93816527eac32171dec3457df"
+    },
+    {
+      "document_id": "VND-SOP-102",
+      "filename": "VND-SOP-102.md",
+      "format": "md",
+      "title": "Employee Offboarding SOP",
+      "version": "2.1",
+      "effective_date": "2026-01-01",
+      "document_type": "SOP",
+      "sha256": "74a14a685105c5e0768dfe43b712373a673e5d42eebd150343712fbfaa25f2b6"
+    },
+    {
+      "document_id": "VND-SOP-103",
+      "filename": "VND-SOP-103.md",
+      "format": "md",
+      "title": "PTO Request and Approval SOP",
+      "version": "2.1",
+      "effective_date": "2026-01-01",
+      "document_type": "SOP",
+      "sha256": "85ed8101734d6ac3db3eecb90fceba8f590c9121b06521c6f6703c6f7edee980"
+    },
+    {
+      "document_id": "VND-SOP-104",
+      "filename": "VND-SOP-104.md",
+      "format": "md",
+      "title": "HR Case Intake, Triage and Escalation SOP",
+      "version": "2.1",
+      "effective_date": "2026-01-01",
+      "document_type": "SOP",
+      "sha256": "d5866b2ce65d92eaaa9a4c38f416e8e9b3661ec45f9c5080075da9849cebd43b"
+    },
+    {
+      "document_id": "VND-SOP-105",
+      "filename": "VND-SOP-105.md",
+      "format": "md",
+      "title": "Expense Claim and Reimbursement SOP",
+      "version": "2.1",
+      "effective_date": "2026-01-01",
+      "document_type": "SOP",
+      "sha256": "6afe9fe30bad8a1e6cd201eaf0db24797cc0cf3d5745615078dde138a991e976"
+    },
+    {
+      "document_id": "VND-SOP-106",
+      "filename": "VND-SOP-106.md",
+      "format": "md",
+      "title": "Work-from-Anywhere (Remote Abroad) Request SOP",
+      "version": "2.1",
+      "effective_date": "2026-01-01",
+      "document_type": "SOP",
+      "sha256": "1abf7f07a102f47f948d47c3b34ffd63d983ca3992a3b0c250e83cf101f9b266"
+    }
+  ]
+}
