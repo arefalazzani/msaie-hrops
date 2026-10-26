@@ -1,0 +1,28 @@
+[
+  {
+    "office_id": "Riyadh HQ",
+    "country_code": "SA",
+    "country": "Saudi Arabia",
+    "time_zone": "Asia/Riyadh",
+    "working_days": [
+      "Sunday",
+      "Monday",
+      "Tuesday",
+      "Wednesday",
+      "Thursday"
+    ]
+  },
+  {
+    "office_id": "Dubai Office",
+    "country_code": "AE",
+    "country": "United Arab Emirates",
+    "time_zone": "Asia/Dubai",
+    "working_days": [
+      "Monday",
+      "Tuesday",
+      "Wednesday",
+      "Thursday",
+      "Friday"
+    ]
+  }
+]

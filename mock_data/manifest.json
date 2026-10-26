@@ -1,0 +1,26 @@
+{
+  "dataset_title": "Vendelligent HR Mock Structured Dataset",
+  "version": "1.0",
+  "as_of_date": "2026-10-24",
+  "company": "Vendelligent Technologies LLC (hypothetical academic scenario)",
+  "synthetic": true,
+  "pii_notice": "All people, identities, email addresses, balances and cases are fabricated for the assignment. example.com is a reserved example domain.",
+  "policy_reference_version": "2.1",
+  "policy_references": [
+    "VND-HR-003",
+    "VND-HR-004",
+    "VND-HR-005",
+    "VND-HR-009",
+    "VND-SOP-103",
+    "VND-SOP-104",
+    "VND-SOP-106"
+  ],
+  "files": {
+    "employees.json": 12,
+    "pto_balances.json": 12,
+    "wfa_balances.json": 12,
+    "benefits.json": 12,
+    "office_locations.json": 2,
+    "hr_tickets.json": 3
+  }
+}

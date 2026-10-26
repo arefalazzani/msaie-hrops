@@ -1,0 +1,32 @@
+[
+  {
+    "ticket_id": "MOCK-HR-1001",
+    "employee_id": "VND-E003",
+    "category": "Remote Work & WFA",
+    "priority": "P3",
+    "status": "New",
+    "summary": "Question about an extended WFA request to Turkey",
+    "created_at": "2026-10-22T10:00:00+03:00",
+    "is_mock": true
+  },
+  {
+    "ticket_id": "MOCK-HR-1002",
+    "employee_id": "VND-E004",
+    "category": "Benefits",
+    "priority": "P3",
+    "status": "Triaged",
+    "summary": "Question about dependent medical coverage eligibility",
+    "created_at": "2026-10-20T11:30:00+04:00",
+    "is_mock": true
+  },
+  {
+    "ticket_id": "MOCK-HR-1003",
+    "employee_id": "VND-E001",
+    "category": "Policy Question",
+    "priority": "P4",
+    "status": "Resolved",
+    "summary": "Clarification about PTO notice periods",
+    "created_at": "2026-10-21T14:00:00+03:00",
+    "is_mock": true
+  }
+]

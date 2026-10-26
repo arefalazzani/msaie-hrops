@@ -1,0 +1,134 @@
+[
+  {
+    "employee_id": "VND-E001",
+    "as_of_date": "2026-10-24",
+    "medical_coverage": "full_employee",
+    "medical_dependents_enrolled_count": 1,
+    "life_disability_coverage_active": true,
+    "learning_budget_remaining_sar": 2200,
+    "wellness_allowance_remaining_sar": 900,
+    "eap_sessions_used_ytd": 1,
+    "benefits_source": "PeopleDesk (synthetic snapshot)"
+  },
+  {
+    "employee_id": "VND-E002",
+    "as_of_date": "2026-10-24",
+    "medical_coverage": "full_employee",
+    "medical_dependents_enrolled_count": 2,
+    "life_disability_coverage_active": true,
+    "learning_budget_remaining_sar": 3000,
+    "wellness_allowance_remaining_sar": 1200,
+    "eap_sessions_used_ytd": 0,
+    "benefits_source": "PeopleDesk (synthetic snapshot)"
+  },
+  {
+    "employee_id": "VND-E003",
+    "as_of_date": "2026-10-24",
+    "medical_coverage": "full_employee",
+    "medical_dependents_enrolled_count": 0,
+    "life_disability_coverage_active": true,
+    "learning_budget_remaining_sar": 1800,
+    "wellness_allowance_remaining_sar": 850,
+    "eap_sessions_used_ytd": 0,
+    "benefits_source": "PeopleDesk (synthetic snapshot)"
+  },
+  {
+    "employee_id": "VND-E004",
+    "as_of_date": "2026-10-24",
+    "medical_coverage": "full_employee",
+    "medical_dependents_enrolled_count": 0,
+    "life_disability_coverage_active": false,
+    "learning_budget_remaining_sar": 0,
+    "wellness_allowance_remaining_sar": 0,
+    "eap_sessions_used_ytd": 0,
+    "benefits_source": "PeopleDesk (synthetic snapshot)"
+  },
+  {
+    "employee_id": "VND-E005",
+    "as_of_date": "2026-10-24",
+    "medical_coverage": "full_employee",
+    "medical_dependents_enrolled_count": 3,
+    "life_disability_coverage_active": true,
+    "learning_budget_remaining_sar": 1000,
+    "wellness_allowance_remaining_sar": 500,
+    "eap_sessions_used_ytd": 1,
+    "benefits_source": "PeopleDesk (synthetic snapshot)"
+  },
+  {
+    "employee_id": "VND-E006",
+    "as_of_date": "2026-10-24",
+    "medical_coverage": "full_employee",
+    "medical_dependents_enrolled_count": 0,
+    "life_disability_coverage_active": true,
+    "learning_budget_remaining_sar": 3000,
+    "wellness_allowance_remaining_sar": 1200,
+    "eap_sessions_used_ytd": 0,
+    "benefits_source": "PeopleDesk (synthetic snapshot)"
+  },
+  {
+    "employee_id": "VND-E007",
+    "as_of_date": "2026-10-24",
+    "medical_coverage": "emergency_only",
+    "medical_dependents_enrolled_count": 0,
+    "life_disability_coverage_active": false,
+    "learning_budget_remaining_sar": 0,
+    "wellness_allowance_remaining_sar": 0,
+    "eap_sessions_used_ytd": 0,
+    "benefits_source": "PeopleDesk (synthetic snapshot)"
+  },
+  {
+    "employee_id": "VND-E008",
+    "as_of_date": "2026-10-24",
+    "medical_coverage": "not_eligible",
+    "medical_dependents_enrolled_count": 0,
+    "life_disability_coverage_active": false,
+    "learning_budget_remaining_sar": 0,
+    "wellness_allowance_remaining_sar": 0,
+    "eap_sessions_used_ytd": 0,
+    "benefits_source": "PeopleDesk (synthetic snapshot)"
+  },
+  {
+    "employee_id": "VND-E009",
+    "as_of_date": "2026-10-24",
+    "medical_coverage": "full_employee",
+    "medical_dependents_enrolled_count": 0,
+    "life_disability_coverage_active": false,
+    "learning_budget_remaining_sar": 0,
+    "wellness_allowance_remaining_sar": 1200,
+    "eap_sessions_used_ytd": 0,
+    "benefits_source": "PeopleDesk (synthetic snapshot)"
+  },
+  {
+    "employee_id": "VND-E010",
+    "as_of_date": "2026-10-24",
+    "medical_coverage": "full_employee",
+    "medical_dependents_enrolled_count": 1,
+    "life_disability_coverage_active": true,
+    "learning_budget_remaining_sar": 3000,
+    "wellness_allowance_remaining_sar": 1200,
+    "eap_sessions_used_ytd": 0,
+    "benefits_source": "PeopleDesk (synthetic snapshot)"
+  },
+  {
+    "employee_id": "VND-E011",
+    "as_of_date": "2026-10-24",
+    "medical_coverage": "full_employee",
+    "medical_dependents_enrolled_count": 2,
+    "life_disability_coverage_active": true,
+    "learning_budget_remaining_sar": 2700,
+    "wellness_allowance_remaining_sar": 600,
+    "eap_sessions_used_ytd": 0,
+    "benefits_source": "PeopleDesk (synthetic snapshot)"
+  },
+  {
+    "employee_id": "VND-E012",
+    "as_of_date": "2026-10-24",
+    "medical_coverage": "full_employee",
+    "medical_dependents_enrolled_count": 0,
+    "life_disability_coverage_active": true,
+    "learning_budget_remaining_sar": 1500,
+    "wellness_allowance_remaining_sar": 1200,
+    "eap_sessions_used_ytd": 0,
+    "benefits_source": "PeopleDesk (synthetic snapshot)"
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "employee_id": "VND-E001",
+    "as_of_date": "2026-10-24",
+    "unit": "working_days",
+    "annual_entitlement_days": 22.0,
+    "monthly_accrual_days": null,
+    "available_days": 12.0,
+    "carryover_days_remaining": 0.0,
+    "balance_source": "VendHub (synthetic snapshot)"
+  },
+  {
+    "employee_id": "VND-E002",
+    "as_of_date": "2026-10-24",
+    "unit": "working_days",
+    "annual_entitlement_days": 30.0,
+    "monthly_accrual_days": null,
+    "available_days": 20.0,
+    "carryover_days_remaining": 0.0,
+    "balance_source": "VendHub (synthetic snapshot)"
+  },
+  {
+    "employee_id": "VND-E003",
+    "as_of_date": "2026-10-24",
+    "unit": "working_days",
+    "annual_entitlement_days": 22.0,
+    "monthly_accrual_days": null,
+    "available_days": 10.0,
+    "carryover_days_remaining": 0.0,
+    "balance_source": "VendHub (synthetic snapshot)"
+  },
+  {
+    "employee_id": "VND-E004",
+    "as_of_date": "2026-10-24",
+    "unit": "working_days",
+    "annual_entitlement_days": 11.0,
+    "monthly_accrual_days": null,
+    "available_days": 5.0,
+    "carryover_days_remaining": 0.0,
+    "balance_source": "VendHub (synthetic snapshot)"
+  },
+  {
+    "employee_id": "VND-E005",
+    "as_of_date": "2026-10-24",
+    "unit": "working_days",
+    "annual_entitlement_days": 30.0,
+    "monthly_accrual_days": null,
+    "available_days": 9.0,
+    "carryover_days_remaining": 0.0,
+    "balance_source": "VendHub (synthetic snapshot)"
+  },
+  {
+    "employee_id": "VND-E006",
+    "as_of_date": "2026-10-24",
+    "unit": "working_days",
+    "annual_entitlement_days": 22.0,
+    "monthly_accrual_days": null,
+    "available_days": 6.0,
+    "carryover_days_remaining": 0.0,
+    "balance_source": "VendHub (synthetic snapshot)"
+  },
+  {
+    "employee_id": "VND-E007",
+    "as_of_date": "2026-10-24",
+    "unit": "working_days",
+    "annual_entitlement_days": null,
+    "monthly_accrual_days": 1.0,
+    "available_days": 1.0,
+    "carryover_days_remaining": 0.0,
+    "balance_source": "VendHub (synthetic snapshot)"
+  },
+  {
+    "employee_id": "VND-E008",
+    "as_of_date": "2026-10-24",
+    "unit": "working_days",
+    "annual_entitlement_days": 0.0,
+    "monthly_accrual_days": null,
+    "available_days": 0.0,
+    "carryover_days_remaining": 0.0,
+    "balance_source": "VendHub (synthetic snapshot)"
+  },
+  {
+    "employee_id": "VND-E009",
+    "as_of_date": "2026-10-24",
+    "unit": "working_days",
+    "annual_entitlement_days": 22.0,
+    "monthly_accrual_days": null,
+    "available_days": 2.0,
+    "carryover_days_remaining": 0.0,
+    "balance_source": "VendHub (synthetic snapshot)"
+  },
+  {
+    "employee_id": "VND-E010",
+    "as_of_date": "2026-10-24",
+    "unit": "working_days",
+    "annual_entitlement_days": 30.0,
+    "monthly_accrual_days": null,
+    "available_days": 17.0,
+    "carryover_days_remaining": 0.0,
+    "balance_source": "VendHub (synthetic snapshot)"
+  },
+  {
+    "employee_id": "VND-E011",
+    "as_of_date": "2026-10-24",
+    "unit": "working_days",
+    "annual_entitlement_days": 30.0,
+    "monthly_accrual_days": null,
+    "available_days": 13.0,
+    "carryover_days_remaining": 0.0,
+    "balance_source": "VendHub (synthetic snapshot)"
+  },
+  {
+    "employee_id": "VND-E012",
+    "as_of_date": "2026-10-24",
+    "unit": "working_days",
+    "annual_entitlement_days": 22.0,
+    "monthly_accrual_days": null,
+    "available_days": 8.0,
+    "carryover_days_remaining": 0.0,
+    "balance_source": "VendHub (synthetic snapshot)"
+  }
+]

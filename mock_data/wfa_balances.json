@@ -1,0 +1,110 @@
+[
+  {
+    "employee_id": "VND-E001",
+    "calendar_year": 2026,
+    "annual_allowance_working_days": 20,
+    "used_working_days": 4,
+    "remaining_working_days": 16,
+    "usage_source": "VendHub (synthetic snapshot)",
+    "note": "A balance is not approval. Check role, probation, PIP, warnings, country, dates and exception rules in VND-HR-005 / VND-SOP-106."
+  },
+  {
+    "employee_id": "VND-E002",
+    "calendar_year": 2026,
+    "annual_allowance_working_days": 20,
+    "used_working_days": 2,
+    "remaining_working_days": 18,
+    "usage_source": "VendHub (synthetic snapshot)",
+    "note": "A balance is not approval. Check role, probation, PIP, warnings, country, dates and exception rules in VND-HR-005 / VND-SOP-106."
+  },
+  {
+    "employee_id": "VND-E003",
+    "calendar_year": 2026,
+    "annual_allowance_working_days": 20,
+    "used_working_days": 4,
+    "remaining_working_days": 16,
+    "usage_source": "VendHub (synthetic snapshot)",
+    "note": "A balance is not approval. Check role, probation, PIP, warnings, country, dates and exception rules in VND-HR-005 / VND-SOP-106."
+  },
+  {
+    "employee_id": "VND-E004",
+    "calendar_year": 2026,
+    "annual_allowance_working_days": 20,
+    "used_working_days": 0,
+    "remaining_working_days": 20,
+    "usage_source": "VendHub (synthetic snapshot)",
+    "note": "A balance is not approval. Check role, probation, PIP, warnings, country, dates and exception rules in VND-HR-005 / VND-SOP-106."
+  },
+  {
+    "employee_id": "VND-E005",
+    "calendar_year": 2026,
+    "annual_allowance_working_days": 20,
+    "used_working_days": 6,
+    "remaining_working_days": 14,
+    "usage_source": "VendHub (synthetic snapshot)",
+    "note": "A balance is not approval. Check role, probation, PIP, warnings, country, dates and exception rules in VND-HR-005 / VND-SOP-106."
+  },
+  {
+    "employee_id": "VND-E006",
+    "calendar_year": 2026,
+    "annual_allowance_working_days": 0,
+    "used_working_days": 0,
+    "remaining_working_days": 0,
+    "usage_source": "VendHub (synthetic snapshot)",
+    "note": "A balance is not approval. Check role, probation, PIP, warnings, country, dates and exception rules in VND-HR-005 / VND-SOP-106."
+  },
+  {
+    "employee_id": "VND-E007",
+    "calendar_year": 2026,
+    "annual_allowance_working_days": 0,
+    "used_working_days": 0,
+    "remaining_working_days": 0,
+    "usage_source": "VendHub (synthetic snapshot)",
+    "note": "A balance is not approval. Check role, probation, PIP, warnings, country, dates and exception rules in VND-HR-005 / VND-SOP-106."
+  },
+  {
+    "employee_id": "VND-E008",
+    "calendar_year": 2026,
+    "annual_allowance_working_days": 0,
+    "used_working_days": 0,
+    "remaining_working_days": 0,
+    "usage_source": "VendHub (synthetic snapshot)",
+    "note": "A balance is not approval. Check role, probation, PIP, warnings, country, dates and exception rules in VND-HR-005 / VND-SOP-106."
+  },
+  {
+    "employee_id": "VND-E009",
+    "calendar_year": 2026,
+    "annual_allowance_working_days": 20,
+    "used_working_days": 0,
+    "remaining_working_days": 20,
+    "usage_source": "VendHub (synthetic snapshot)",
+    "note": "A balance is not approval. Check role, probation, PIP, warnings, country, dates and exception rules in VND-HR-005 / VND-SOP-106."
+  },
+  {
+    "employee_id": "VND-E010",
+    "calendar_year": 2026,
+    "annual_allowance_working_days": 20,
+    "used_working_days": 0,
+    "remaining_working_days": 20,
+    "usage_source": "VendHub (synthetic snapshot)",
+    "note": "A balance is not approval. Check role, probation, PIP, warnings, country, dates and exception rules in VND-HR-005 / VND-SOP-106."
+  },
+  {
+    "employee_id": "VND-E011",
+    "calendar_year": 2026,
+    "annual_allowance_working_days": 20,
+    "used_working_days": 0,
+    "remaining_working_days": 20,
+    "usage_source": "VendHub (synthetic snapshot)",
+    "note": "A balance is not approval. Check role, probation, PIP, warnings, country, dates and exception rules in VND-HR-005 / VND-SOP-106."
+  },
+  {
+    "employee_id": "VND-E012",
+    "calendar_year": 2026,
+    "annual_allowance_working_days": 20,
+    "used_working_days": 1,
+    "remaining_working_days": 19,
+    "usage_source": "VendHub (synthetic snapshot)",
+    "note": "A balance is not approval. Check role, probation, PIP, warnings, country, dates and exception rules in VND-HR-005 / VND-SOP-106."
+  }
+]
