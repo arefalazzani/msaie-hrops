@@ -1,0 +1,43 @@
+{
+  "created_at_utc": "2026-10-26T23:09:25.287693+00:00",
+  "collection": "vendelligent_hr_policies",
+  "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+  "embedding_dimensions": 384,
+  "chunk_size_characters": 850,
+  "chunk_overlap_characters": 130,
+  "policy_sections_or_pages_parsed": 501,
+  "document_count": 19,
+  "chunk_count": 626,
+  "chunks_per_document": {
+    "VND-HR-000": 39,
+    "VND-HR-001": 38,
+    "VND-HR-002": 34,
+    "VND-HR-003": 35,
+    "VND-HR-004": 40,
+    "VND-HR-005": 38,
+    "VND-HR-006": 38,
+    "VND-HR-007": 27,
+    "VND-HR-008": 32,
+    "VND-HR-009": 49,
+    "VND-HR-010": 31,
+    "VND-HR-011": 30,
+    "VND-HR-REG": 16,
+    "VND-SOP-101": 29,
+    "VND-SOP-102": 27,
+    "VND-SOP-103": 28,
+    "VND-SOP-104": 34,
+    "VND-SOP-105": 31,
+    "VND-SOP-106": 30
+  },
+  "formats": {
+    "md": 610,
+    "pdf": 16
+  },
+  "sample_citation": {
+    "document_id": "VND-HR-000",
+    "title": "Employee Handbook: Company Overview, Values and Policy Framework",
+    "section": "Document overview",
+    "source": "policy_corpus/VND-HR-000.md",
+    "chunk_id": "VND-HR-000-0001"
+  }
+}
