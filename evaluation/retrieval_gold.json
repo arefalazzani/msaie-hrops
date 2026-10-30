@@ -1,0 +1,14 @@
+[
+  {"id":"R01", "query":"How many days of annual leave do employees receive?", "expected_document_ids":["VND-HR-004"]},
+  {"id":"R02", "query":"What is the procedure for asking my manager to approve PTO?", "expected_document_ids":["VND-SOP-103"]},
+  {"id":"R03", "query":"Can I work from another country for six weeks?", "expected_document_ids":["VND-HR-005"]},
+  {"id":"R04", "query":"What is the procedure to request permission to work abroad?", "expected_document_ids":["VND-SOP-106"]},
+  {"id":"R05", "query":"What are the rules for reimbursement of business travel expenses?", "expected_document_ids":["VND-HR-006"]},
+  {"id":"R06", "query":"How do I submit an expense reimbursement claim?", "expected_document_ids":["VND-SOP-105"]},
+  {"id":"R07", "query":"Which employee benefits are provided by the company?", "expected_document_ids":["VND-HR-009"]},
+  {"id":"R08", "query":"What happens when an employee reports workplace harassment?", "expected_document_ids":["VND-HR-002"]},
+  {"id":"R09", "query":"How does HR triage and escalate a workplace grievance case?", "expected_document_ids":["VND-SOP-104"]},
+  {"id":"R10", "query":"What are the public holiday and working hours rules?", "expected_document_ids":["VND-HR-003"]},
+  {"id":"R11", "query":"What are the rules and process for taking annual leave?", "expected_document_ids":["VND-HR-004","VND-SOP-103"]},
+  {"id":"R12", "query":"What company rules apply to international remote work and secure handling of company information?", "expected_document_ids":["VND-HR-005","VND-HR-008"]}
+]

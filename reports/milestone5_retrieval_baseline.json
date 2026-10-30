@@ -1,0 +1,486 @@
+{
+  "evaluated_at_utc": "2026-10-30T12:47:45.624001+00:00",
+  "description": "Document-level retrieval baseline; no generated answers evaluated.",
+  "gold_file": "evaluation/retrieval_gold.json",
+  "comparisons": [
+    {
+      "k": 3,
+      "case_count": 12,
+      "mean_document_recall_at_k": 0.9167,
+      "any_gold_found_rate": 1,
+      "mean_retrieval_latency_ms": 10.42,
+      "cases": [
+        {
+          "id": "R01",
+          "query": "How many days of annual leave do employees receive?",
+          "gold_document_ids": [
+            "VND-HR-004"
+          ],
+          "retrieved_document_ids": [
+            "VND-HR-004",
+            "VND-HR-004",
+            "VND-HR-004"
+          ],
+          "matched_document_ids": [
+            "VND-HR-004"
+          ],
+          "document_recall": 1.0,
+          "any_gold_found": true,
+          "latency_ms": 45.59
+        },
+        {
+          "id": "R02",
+          "query": "What is the procedure for asking my manager to approve PTO?",
+          "gold_document_ids": [
+            "VND-SOP-103"
+          ],
+          "retrieved_document_ids": [
+            "VND-SOP-103",
+            "VND-SOP-103",
+            "VND-SOP-103"
+          ],
+          "matched_document_ids": [
+            "VND-SOP-103"
+          ],
+          "document_recall": 1.0,
+          "any_gold_found": true,
+          "latency_ms": 7.85
+        },
+        {
+          "id": "R03",
+          "query": "Can I work from another country for six weeks?",
+          "gold_document_ids": [
+            "VND-HR-005"
+          ],
+          "retrieved_document_ids": [
+            "VND-SOP-106",
+            "VND-HR-005",
+            "VND-HR-005"
+          ],
+          "matched_document_ids": [
+            "VND-HR-005"
+          ],
+          "document_recall": 1.0,
+          "any_gold_found": true,
+          "latency_ms": 8.11
+        },
+        {
+          "id": "R04",
+          "query": "What is the procedure to request permission to work abroad?",
+          "gold_document_ids": [
+            "VND-SOP-106"
+          ],
+          "retrieved_document_ids": [
+            "VND-SOP-106",
+            "VND-SOP-106",
+            "VND-SOP-106"
+          ],
+          "matched_document_ids": [
+            "VND-SOP-106"
+          ],
+          "document_recall": 1.0,
+          "any_gold_found": true,
+          "latency_ms": 8.22
+        },
+        {
+          "id": "R05",
+          "query": "What are the rules for reimbursement of business travel expenses?",
+          "gold_document_ids": [
+            "VND-HR-006"
+          ],
+          "retrieved_document_ids": [
+            "VND-HR-006",
+            "VND-HR-006",
+            "VND-HR-006"
+          ],
+          "matched_document_ids": [
+            "VND-HR-006"
+          ],
+          "document_recall": 1.0,
+          "any_gold_found": true,
+          "latency_ms": 7.08
+        },
+        {
+          "id": "R06",
+          "query": "How do I submit an expense reimbursement claim?",
+          "gold_document_ids": [
+            "VND-SOP-105"
+          ],
+          "retrieved_document_ids": [
+            "VND-SOP-105",
+            "VND-HR-006",
+            "VND-SOP-105"
+          ],
+          "matched_document_ids": [
+            "VND-SOP-105"
+          ],
+          "document_recall": 1.0,
+          "any_gold_found": true,
+          "latency_ms": 7.82
+        },
+        {
+          "id": "R07",
+          "query": "Which employee benefits are provided by the company?",
+          "gold_document_ids": [
+            "VND-HR-009"
+          ],
+          "retrieved_document_ids": [
+            "VND-HR-009",
+            "VND-HR-009",
+            "VND-HR-000"
+          ],
+          "matched_document_ids": [
+            "VND-HR-009"
+          ],
+          "document_recall": 1.0,
+          "any_gold_found": true,
+          "latency_ms": 6.43
+        },
+        {
+          "id": "R08",
+          "query": "What happens when an employee reports workplace harassment?",
+          "gold_document_ids": [
+            "VND-HR-002"
+          ],
+          "retrieved_document_ids": [
+            "VND-HR-011",
+            "VND-HR-001",
+            "VND-HR-002"
+          ],
+          "matched_document_ids": [
+            "VND-HR-002"
+          ],
+          "document_recall": 1.0,
+          "any_gold_found": true,
+          "latency_ms": 6.65
+        },
+        {
+          "id": "R09",
+          "query": "How does HR triage and escalate a workplace grievance case?",
+          "gold_document_ids": [
+            "VND-SOP-104"
+          ],
+          "retrieved_document_ids": [
+            "VND-SOP-104",
+            "VND-HR-002",
+            "VND-HR-002"
+          ],
+          "matched_document_ids": [
+            "VND-SOP-104"
+          ],
+          "document_recall": 1.0,
+          "any_gold_found": true,
+          "latency_ms": 7.52
+        },
+        {
+          "id": "R10",
+          "query": "What are the public holiday and working hours rules?",
+          "gold_document_ids": [
+            "VND-HR-003"
+          ],
+          "retrieved_document_ids": [
+            "VND-HR-003",
+            "VND-HR-003",
+            "VND-HR-003"
+          ],
+          "matched_document_ids": [
+            "VND-HR-003"
+          ],
+          "document_recall": 1.0,
+          "any_gold_found": true,
+          "latency_ms": 6.61
+        },
+        {
+          "id": "R11",
+          "query": "What are the rules and process for taking annual leave?",
+          "gold_document_ids": [
+            "VND-HR-004",
+            "VND-SOP-103"
+          ],
+          "retrieved_document_ids": [
+            "VND-HR-004",
+            "VND-HR-004",
+            "VND-HR-004"
+          ],
+          "matched_document_ids": [
+            "VND-HR-004"
+          ],
+          "document_recall": 0.5,
+          "any_gold_found": true,
+          "latency_ms": 5.93
+        },
+        {
+          "id": "R12",
+          "query": "What company rules apply to international remote work and secure handling of company information?",
+          "gold_document_ids": [
+            "VND-HR-005",
+            "VND-HR-008"
+          ],
+          "retrieved_document_ids": [
+            "VND-HR-005",
+            "VND-HR-005",
+            "VND-SOP-106"
+          ],
+          "matched_document_ids": [
+            "VND-HR-005"
+          ],
+          "document_recall": 0.5,
+          "any_gold_found": true,
+          "latency_ms": 7.26
+        }
+      ]
+    },
+    {
+      "k": 5,
+      "case_count": 12,
+      "mean_document_recall_at_k": 0.9583,
+      "any_gold_found_rate": 1,
+      "mean_retrieval_latency_ms": 5.71,
+      "cases": [
+        {
+          "id": "R01",
+          "query": "How many days of annual leave do employees receive?",
+          "gold_document_ids": [
+            "VND-HR-004"
+          ],
+          "retrieved_document_ids": [
+            "VND-HR-004",
+            "VND-HR-004",
+            "VND-HR-004",
+            "VND-HR-004",
+            "VND-HR-004"
+          ],
+          "matched_document_ids": [
+            "VND-HR-004"
+          ],
+          "document_recall": 1.0,
+          "any_gold_found": true,
+          "latency_ms": 5.84
+        },
+        {
+          "id": "R02",
+          "query": "What is the procedure for asking my manager to approve PTO?",
+          "gold_document_ids": [
+            "VND-SOP-103"
+          ],
+          "retrieved_document_ids": [
+            "VND-SOP-103",
+            "VND-SOP-103",
+            "VND-SOP-103",
+            "VND-SOP-103",
+            "VND-SOP-103"
+          ],
+          "matched_document_ids": [
+            "VND-SOP-103"
+          ],
+          "document_recall": 1.0,
+          "any_gold_found": true,
+          "latency_ms": 5.5
+        },
+        {
+          "id": "R03",
+          "query": "Can I work from another country for six weeks?",
+          "gold_document_ids": [
+            "VND-HR-005"
+          ],
+          "retrieved_document_ids": [
+            "VND-SOP-106",
+            "VND-HR-005",
+            "VND-HR-005",
+            "VND-SOP-106",
+            "VND-HR-005"
+          ],
+          "matched_document_ids": [
+            "VND-HR-005"
+          ],
+          "document_recall": 1.0,
+          "any_gold_found": true,
+          "latency_ms": 4.87
+        },
+        {
+          "id": "R04",
+          "query": "What is the procedure to request permission to work abroad?",
+          "gold_document_ids": [
+            "VND-SOP-106"
+          ],
+          "retrieved_document_ids": [
+            "VND-SOP-106",
+            "VND-SOP-106",
+            "VND-SOP-106",
+            "VND-SOP-106",
+            "VND-SOP-106"
+          ],
+          "matched_document_ids": [
+            "VND-SOP-106"
+          ],
+          "document_recall": 1.0,
+          "any_gold_found": true,
+          "latency_ms": 5.77
+        },
+        {
+          "id": "R05",
+          "query": "What are the rules for reimbursement of business travel expenses?",
+          "gold_document_ids": [
+            "VND-HR-006"
+          ],
+          "retrieved_document_ids": [
+            "VND-HR-006",
+            "VND-HR-006",
+            "VND-HR-006",
+            "VND-HR-006",
+            "VND-HR-006"
+          ],
+          "matched_document_ids": [
+            "VND-HR-006"
+          ],
+          "document_recall": 1.0,
+          "any_gold_found": true,
+          "latency_ms": 6.47
+        },
+        {
+          "id": "R06",
+          "query": "How do I submit an expense reimbursement claim?",
+          "gold_document_ids": [
+            "VND-SOP-105"
+          ],
+          "retrieved_document_ids": [
+            "VND-SOP-105",
+            "VND-HR-006",
+            "VND-SOP-105",
+            "VND-SOP-105",
+            "VND-SOP-105"
+          ],
+          "matched_document_ids": [
+            "VND-SOP-105"
+          ],
+          "document_recall": 1.0,
+          "any_gold_found": true,
+          "latency_ms": 5.63
+        },
+        {
+          "id": "R07",
+          "query": "Which employee benefits are provided by the company?",
+          "gold_document_ids": [
+            "VND-HR-009"
+          ],
+          "retrieved_document_ids": [
+            "VND-HR-009",
+            "VND-HR-009",
+            "VND-HR-000",
+            "VND-HR-009",
+            "VND-HR-009"
+          ],
+          "matched_document_ids": [
+            "VND-HR-009"
+          ],
+          "document_recall": 1.0,
+          "any_gold_found": true,
+          "latency_ms": 5.92
+        },
+        {
+          "id": "R08",
+          "query": "What happens when an employee reports workplace harassment?",
+          "gold_document_ids": [
+            "VND-HR-002"
+          ],
+          "retrieved_document_ids": [
+            "VND-HR-011",
+            "VND-HR-001",
+            "VND-HR-002",
+            "VND-HR-011",
+            "VND-HR-002"
+          ],
+          "matched_document_ids": [
+            "VND-HR-002"
+          ],
+          "document_recall": 1.0,
+          "any_gold_found": true,
+          "latency_ms": 6.05
+        },
+        {
+          "id": "R09",
+          "query": "How does HR triage and escalate a workplace grievance case?",
+          "gold_document_ids": [
+            "VND-SOP-104"
+          ],
+          "retrieved_document_ids": [
+            "VND-SOP-104",
+            "VND-HR-002",
+            "VND-HR-002",
+            "VND-HR-002",
+            "VND-SOP-104"
+          ],
+          "matched_document_ids": [
+            "VND-SOP-104"
+          ],
+          "document_recall": 1.0,
+          "any_gold_found": true,
+          "latency_ms": 5.86
+        },
+        {
+          "id": "R10",
+          "query": "What are the public holiday and working hours rules?",
+          "gold_document_ids": [
+            "VND-HR-003"
+          ],
+          "retrieved_document_ids": [
+            "VND-HR-003",
+            "VND-HR-003",
+            "VND-HR-003",
+            "VND-HR-003",
+            "VND-HR-003"
+          ],
+          "matched_document_ids": [
+            "VND-HR-003"
+          ],
+          "document_recall": 1.0,
+          "any_gold_found": true,
+          "latency_ms": 5.44
+        },
+        {
+          "id": "R11",
+          "query": "What are the rules and process for taking annual leave?",
+          "gold_document_ids": [
+            "VND-HR-004",
+            "VND-SOP-103"
+          ],
+          "retrieved_document_ids": [
+            "VND-HR-004",
+            "VND-HR-004",
+            "VND-HR-004",
+            "VND-HR-004",
+            "VND-HR-004"
+          ],
+          "matched_document_ids": [
+            "VND-HR-004"
+          ],
+          "document_recall": 0.5,
+          "any_gold_found": true,
+          "latency_ms": 5.34
+        },
+        {
+          "id": "R12",
+          "query": "What company rules apply to international remote work and secure handling of company information?",
+          "gold_document_ids": [
+            "VND-HR-005",
+            "VND-HR-008"
+          ],
+          "retrieved_document_ids": [
+            "VND-HR-005",
+            "VND-HR-005",
+            "VND-SOP-106",
+            "VND-HR-005",
+            "VND-HR-008"
+          ],
+          "matched_document_ids": [
+            "VND-HR-005",
+            "VND-HR-008"
+          ],
+          "document_recall": 1.0,
+          "any_gold_found": true,
+          "latency_ms": 5.78
+        }
+      ]
+    }
+  ]
+}
